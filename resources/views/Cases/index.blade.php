@@ -63,7 +63,7 @@
                         <th>اسم المريض</th>
                         <th>اسم المريض</th>
                         <th>اسم المريض</th>
-                        
+
                     </tr>
                 </thead>
                 <tbody>
@@ -87,7 +87,7 @@
 
                                     <a href="{{ route('Cases-edit') }}" class="btn btn-outline-info     "
                                         type="button">
-                                        <b>تعديل</b>
+                                        <b>تفاصيل</b>
                                     </a>
                                     <br>
                                     </span>
@@ -129,7 +129,7 @@
 
                                     <a href="{{ route('Cases-edit') }}" class="btn btn-outline-info     "
                                         type="button">
-                                        <b>تعديل</b>
+                                        <b>تفاصيل</b>
                                     </a>
                                     <br>
                                     </span>
