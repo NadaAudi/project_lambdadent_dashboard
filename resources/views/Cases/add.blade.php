@@ -42,7 +42,7 @@
                 <div class="card-body">
 
                     <div class="form-group text-dark">
-                        <label for="name">اسم الطالب</label>
+                        <label for="name">اسم المريض</label>
                         <input id="name" class="form-control bg- light" type="text" name="name" required />
 
                     </div>
@@ -57,7 +57,7 @@
                     </div>
 
                     <div class="form-group text-dark">
-                        <label for="name">السبب</label>
+                        <label for="name">ملاحظات</label>
                         <input id="name" class="form-control bg- light" type="text" name="name" required />
 
                     </div>
