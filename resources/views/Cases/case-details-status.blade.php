@@ -9,7 +9,7 @@
 @endsection
 
 @section('root')
-    لوحة التحكم
+ihghyfggvhjghgv
 @endsection
 
 @section('son1')
